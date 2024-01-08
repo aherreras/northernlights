@@ -1,0 +1,48 @@
+form.parainfo {
+    margin: 12px;
+}
+
+form.parainfo input[type='text'], form.parainfo textarea, 
+form.parainfo select{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: #444;
+    padding: 2px 4px;
+}
+
+form.parainfo legend {
+    padding: 4px 12px;
+}
+
+form.parainfo .tabla {
+    margin: auto;
+    margin-top: 16px;
+    border-spacing: 5px;
+}
+
+form.parainfo textarea {
+    resize: none;
+}
+
+form.parainfo td, form.parainfo th {
+    vertical-align: top;
+}
+
+.form_parainfo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.94em;
+    color: #444;
+    padding: 1px 4px;
+}
+
+button.form_parainfo {
+    padding: 0px 4px;
+}
+
+input[type=text].form_parainfo {
+    padding: 2px 4px;
+}
+
+input[type=text].number {
+    text-align: right;
+}

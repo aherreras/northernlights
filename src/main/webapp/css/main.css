@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    color: #444;
+}
+
+.msg_error {
+    margin: auto;
+    display: table;
+    margin-top: 20px;
+    padding: 4px 20px 4px 10px;
+}
+
+#isInt {
+    color: red;
+}
+
+/* jquery */
+.ui-button {
+    font-size: 0.9em;
+}
